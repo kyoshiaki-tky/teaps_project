@@ -1,0 +1,7 @@
+name in matlab, name in CellDesigner, reaction name, initial lower limit,initial upper limit, 0:fix or 1:free, search area lower limit, search area upper limit
+x(1), default, Volume,1,1,0,1,1
+x(2), k1, re1,0.001,1000,1,0.005,50000
+x(3), v2, re2,0.001,1000,1,0.005,50000
+x(4), km2, re2,0.001,1000,1,0.005,50000
+x(5), k3, re3,0.5,1000,1,0.5,50000
+x(6), k4, re4,0.001,1000,1,0.005,50000

@@ -1,0 +1,18 @@
+If a target steady state is set to (1, ..., 1),
+the following mass balance constraints should be described.
+(Natural constraints considering model structure.)
+
+Model T3
+u(3)=1;
+
+Model T6
+u(1)=2-u(2);
+u(3)=2-u(4);
+
+Model T7
+u(1)=2-u(2);
+u(3)=2-u(4);
+
+
+Model T8
+u(4)=1;
